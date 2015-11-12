@@ -1,0 +1,29 @@
+{
+  "name": "reverse-polish-notation",
+  "version": "0.1.0",
+  "description": "Reverse Polish Notation - Javascript implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/runk/node-reverse-polish-notation.git"
+  },
+  "keywords": [
+    "rpn",
+    "reverse",
+    "polish",
+    "notation",
+    "postfix"
+  ],
+  "author": "Dmitry Shirokov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runk/node-reverse-polish-notation/issues"
+  },
+  "homepage": "https://github.com/runk/node-reverse-polish-notation",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
